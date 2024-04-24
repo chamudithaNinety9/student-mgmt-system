@@ -1,0 +1,13 @@
+Student Management System
+
+With the rise of COVID-19, schools have been forced to shift to online learning, including examinations. 
+This presents several challenges, such as the need for a system to manage and store examination marks online, difficulties in communication between parents and 
+teachers,and the need for a way to generate and distribute student reports.
+
+Solutions:
+* Secure login for students and teachers (parents can login using their children’s accounts): The system should have a secure login feature to ensure that only authorized individuals can access the system.
+* Exam marks management: The system should have a module that allows teachers to enter marks for each student's exam and store them securely online
+* Communication module: The system should have a communication module that allows teachers to communicate with parents and vice versa, providing. a way for them to discuss any issues or concerns about student performance. 
+* Automated student average calculation and report generation: The system should have an automated report generation module that takes the exam marks and generates student reports for each subject. These reports can be emailed to parents and made available to students online.With the rise of COVID-19, schools have been forced to shift to online learning, including examinations. This presents several challenges, such as the need for a system to manage and store examination marks online, difficulties in communication between parents and teachers,and the need for a way to generate and distribute student reports. Solutions: * Secure login for students and teachers (parents can login using their children’s accounts): The system should have a secure login feature to ensure that only authorized individuals can access the system. * Exam marks management: The system should have a module that allows teachers to enter marks for each student's exam and store them securely online * Communication module: The system should have a communication module that allows teachers to communicate with parents and vice versa, providing. a way for them to discuss any issues or concerns about student performance. * Automated student average calculation and report generation: The system should have an automated report generation module that takes the exam marks and generates student reports for each subject. These reports can be emailed to parents and made available to students online.
+
+Skills: Java · React.js · Node.js · Node Xpress · MongoDB
