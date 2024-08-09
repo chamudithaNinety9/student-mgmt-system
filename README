@@ -1,13 +1,31 @@
-Student Management System
 
-With the rise of COVID-19, schools have been forced to shift to online learning, including examinations. 
-This presents several challenges, such as the need for a system to manage and store examination marks online, difficulties in communication between parents and 
-teachers,and the need for a way to generate and distribute student reports.
+# Student Management System
 
-Solutions:
-* Secure login for students and teachers (parents can login using their children’s accounts): The system should have a secure login feature to ensure that only authorized individuals can access the system.
-* Exam marks management: The system should have a module that allows teachers to enter marks for each student's exam and store them securely online
-* Communication module: The system should have a communication module that allows teachers to communicate with parents and vice versa, providing. a way for them to discuss any issues or concerns about student performance. 
-* Automated student average calculation and report generation: The system should have an automated report generation module that takes the exam marks and generates student reports for each subject. These reports can be emailed to parents and made available to students online.With the rise of COVID-19, schools have been forced to shift to online learning, including examinations. This presents several challenges, such as the need for a system to manage and store examination marks online, difficulties in communication between parents and teachers,and the need for a way to generate and distribute student reports. Solutions: * Secure login for students and teachers (parents can login using their children’s accounts): The system should have a secure login feature to ensure that only authorized individuals can access the system. * Exam marks management: The system should have a module that allows teachers to enter marks for each student's exam and store them securely online * Communication module: The system should have a communication module that allows teachers to communicate with parents and vice versa, providing. a way for them to discuss any issues or concerns about student performance. * Automated student average calculation and report generation: The system should have an automated report generation module that takes the exam marks and generates student reports for each subject. These reports can be emailed to parents and made available to students online.
+## Overview
+With the rise of COVID-19, schools have been forced to shift to online learning, including examinations. This transition presents several challenges, such as managing and storing examination marks online, facilitating communication between parents and teachers, and generating and distributing student reports. The Student Management System is designed to address these challenges effectively.
 
-Skills: Java · React.js · Node.js · Node Xpress(Framework) · MongoDB
+## Features
+### 1. Secure Login for Students and Teachers
+- **Description:** The system provides a secure login feature to ensure that only authorized individuals can access the system.
+- **Details:** Parents can log in using their children’s accounts to monitor progress and communicate with teachers.
+
+### 2. Exam Marks Management
+- **Description:** Teachers can enter and securely store marks for each student's exam.
+- **Details:** This module allows for seamless management of exam marks, ensuring they are safely stored online.
+
+### 3. Communication Module
+- **Description:** Facilitates communication between teachers and parents.
+- **Details:** This module provides a platform for discussing student performance and addressing any concerns or issues.
+
+### 4. Automated Student Average Calculation and Report Generation
+- **Description:** Automatically calculates student averages and generates reports.
+- **Details:** The system generates detailed student reports for each subject, which can be emailed to parents and made available to students online.
+
+## Technologies Used
+- **Backend:** Java, Node.js, Node Express (Framework)
+- **Frontend:** React.js
+- **Database:** MongoDB
+
+---
+
+This format provides a clear and concise overview of your project, highlighting its key features and technologies.
