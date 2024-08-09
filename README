@@ -18,6 +18,7 @@ Features
 4. Automated Student Average Calculation and Report Generation
   Description: Automatically calculates student averages and generates reports.
   Details: The system generates detailed student reports for each subject, which can be emailed to parents and made available to students online.
+
 Technologies Used
   Backend: Java, Node.js, Node Express (Framework)
   Frontend: React.js
